@@ -1,0 +1,4 @@
+"C:\Program Files\JetBrains\CLion 2019.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe" -G "CodeBlocks - MinGW Makefiles" C:\Users\Appledora\CLionProjects\RegionFilling
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/Appledora/CLionProjects/RegionFilling/cmake-build-debug

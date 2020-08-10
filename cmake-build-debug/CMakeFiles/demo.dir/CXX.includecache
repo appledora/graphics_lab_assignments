@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Appledora/CLionProjects/RegionFilling/main.cpp
+windows.h
+-
+gl/gl.h
+-
+gl/glu.h
+-
+gl/glaux.h
+-
+zconf.h
+-
+
